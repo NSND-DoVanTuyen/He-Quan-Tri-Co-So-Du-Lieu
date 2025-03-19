@@ -1,2 +1,2 @@
-# He-Quan-Tri-Co-So-Du-Lieu
+# QuanLyKhoaHocTrucTuyen
 Quản Lý Khoá Học Trực Tuyến
